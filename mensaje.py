@@ -1,4 +1,4 @@
-nombre = "mensaje 1 desde git bash"
+nombre = "pepe"
 apellido = "maestre"
 
 print(f"hola {nombre} {apellido} como estas?")
