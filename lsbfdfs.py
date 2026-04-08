@@ -1,2 +1,0 @@
-mensaje = "mensajepeurba"
-print(mensaje)
