@@ -1,2 +1,2 @@
-mensaje = "hola"
+mensaje = "mensajepeurba"
 print(mensaje)
